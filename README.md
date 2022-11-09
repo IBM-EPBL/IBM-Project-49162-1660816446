@@ -38,4 +38,4 @@ Customer Care Registry
 * Whenever the agent is assigned to a customer they will be notified with an email alert.  
 * Customers can view the status of the ticket till the service is provided.
 
-<h3> Technical Architecture </h3>
+<h3> Technical Architecture </h3>https://user-images.githubusercontent.com/87432281/192336862-88b0337f-083e-456f-9bc0-9e3cbf0c283b.png
