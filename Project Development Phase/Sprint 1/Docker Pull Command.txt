@@ -1,1 +1,1 @@
-docker pull samsusheikabdulla/customer-care-registry
+docker pull karan raj/customer-care-registry
